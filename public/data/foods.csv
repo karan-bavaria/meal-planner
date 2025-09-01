@@ -1,0 +1,41 @@
+name,calories,allergens,protein_g,fiber_g,carbs_g,fat_g,cuisine,glycemic_index,price_tier,prep_time_min
+Greek Yogurt,100,none,15,0,6,0,mediterranean,35,2,0
+Oatmeal,150,none,5,4,27,3,american,55,1,5
+Banana,105,none,1,3,27,0,american,62,1,0
+Almonds,160,tree_nuts,6,4,6,14,american,15,3,0
+Quinoa,120,none,4,3,22,2,south_american,53,2,15
+Black Beans,110,none,7,6,20,0,latin,30,1,10
+Avocado,160,none,2,7,9,15,mexican,10,2,5
+Brown Rice,110,none,3,2,23,1,asian,68,1,20
+Salmon,200,fish,22,0,0,12,american,0,4,15
+Chicken Breast,165,none,31,0,0,4,american,0,3,20
+Tofu,80,soy,8,1,2,5,asian,15,2,10
+Spinach,7,none,1,1,1,0,mediterranean,15,1,5
+Broccoli,25,none,3,3,5,0,american,15,1,10
+Sweet Potato,90,none,2,3,21,0,american,70,1,30
+Eggs,70,eggs,6,0,1,5,american,0,2,5
+Cottage Cheese,100,none,12,0,4,4,american,30,2,0
+Whole Wheat Bread,80,wheat,3,2,15,1,american,71,1,0
+Peanut Butter,190,peanuts,8,2,6,16,american,14,2,0
+Almond Butter,190,tree_nuts,7,3,6,18,american,15,3,0
+Hummus,25,none,1,1,3,1,middle_eastern,15,2,0
+Olive Oil,120,none,0,0,0,14,mediterranean,0,2,0
+Coconut Oil,120,none,0,0,0,14,asian,0,3,0
+Lentils,115,none,9,8,20,0,indian,30,1,25
+Chickpeas,135,none,7,6,22,2,middle_eastern,28,1,15
+Walnuts,185,tree_nuts,4,2,4,18,american,15,3,0
+Blueberries,40,none,1,2,10,0,american,53,3,0
+Strawberries,30,none,1,2,7,0,american,40,2,0
+Apple,80,none,0,3,21,0,american,39,1,0
+Orange,60,none,1,3,15,0,american,40,1,0
+Carrots,25,none,1,2,6,0,american,39,1,5
+Bell Pepper,20,none,1,2,5,0,american,15,2,5
+Tomato,15,none,1,1,3,0,mediterranean,15,1,0
+Cucumber,8,none,0,1,2,0,mediterranean,15,1,0
+Lettuce,5,none,1,1,1,0,american,15,1,0
+Mushrooms,15,none,2,1,3,0,american,15,2,10
+Zucchini,17,none,1,1,3,0,mediterranean,15,1,5
+Cauliflower,25,none,2,2,5,0,american,15,1,10
+Brussels Sprouts,38,none,3,3,8,0,american,15,2,15
+Asparagus,20,none,2,2,4,0,american,15,3,10
+Green Beans,31,none,2,3,7,0,american,15,1,10
